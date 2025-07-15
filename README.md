@@ -1,6 +1,6 @@
 # PROSECURELABS Advanced Cybersecurity GUI (v2)
 
-This is an advanced, professional cybersecurity antivirus & firewall GUI template, designed with a modern cyberpunk look and packed with features:h
+This is an advanced, professional cybersecurity antivirus & firewall GUI template, designed with a modern cyberpunk look and packed with features:hbnn
 
 - Dark theme with animated neon borders, gradients, and glowing effects
 - Custom cyberpunk icons for all tabs, buttons, and alerts
